@@ -54,7 +54,7 @@ width: 100%;
 min-height: 100vh;
 display: flex;
 align-items: end;
-background: url(images/a.jpeg)no-repeat; 
+background: url(a.jpeg)no-repeat; 
 background-size: cover; 
 background-attachment: fixed;
 justify-content: space-between;
